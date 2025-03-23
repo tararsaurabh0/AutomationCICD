@@ -1,0 +1,7 @@
+GrowNet\AbstractComponents\AbstractsComponents.class
+GrowNet\FrameworkBuilding\PageObjects\CheckoutPage.class
+GrowNet\FrameworkBuilding\PageObjects\CartPage.class
+GrowNet\FrameworkBuilding\PageObjects\LandingPage.class
+GrowNet\FrameworkBuilding\PageObjects\ConfirmationPage.class
+GrowNet\FrameworkBuilding\PageObjects\ProductCatalogue.class
+GrowNet\FrameworkBuilding\PageObjects\OrderPage.class
